@@ -2,10 +2,10 @@
 Here we use BlockApps STRATO to design, deploy and test smart contracts and dApps, all within their browser-based development environment and private testnet [1]. 
 
 # Connect to the demo BlockApps Dashboard:
-<a href="http://demo.vativ.io" target="_blank">BlockApps STRATO Dashboard (http://demo.vativ.io)</a>
+<a href="http://demo.vativ.io" target="_blank">BlockApps STRATO Dashboard (demo.vativ.io)</a>
 
 # Download the sample code [2]:
-<a href="https://raw.github.com/vativ/demo/blockapps/ProofOfExistence1.sol" target="_blank">ProofOfExistance1.sol</a>
+<a href="https://raw.githubusercontent.com/vativ/demo-blockapps/master/ProofOfExistence1.sol" target="_blank">ProofOfExistence1.sol</a>
 
 # Configuring Visual Studio code for Ethereum Blockchain development (optional):
 <a href="https://davidburela.wordpress.com/2016/11/18/configuring-visual-studio-code-for-ethereum-blockchain-development/" target="_blank">David Burela's Blog</a>
