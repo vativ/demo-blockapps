@@ -2,7 +2,7 @@
 Here we use BlockApps STRATO to design, deploy and test smart contracts and dApps, all within their browser-based development environment and private testnet [1]. 
 
 # Connect to the demo BlockApps Dashboard:
-<a href="http://demo.vativ.io" target="_blank">http://demo.vativ.io</a>BlockApps STRATO Dashboard</a>
+<a href="http://demo.vativ.io" target="_blank">BlockApps STRATO Dashboard (http://demo.vativ.io)</a>
 
 # Download the sample code [2]:
 <a href="https://raw.github.com/vativ/demo/blockapps/ProofOfExistence1.sol" target="_blank">ProofOfExistance1.sol</a>
