@@ -1,4 +1,4 @@
-pragma solidity ^0.4.15;
+pragma solidity ^0.4.4;
 // Proof of Existence contract, version 3
 contract ProofOfExistence3 {
   mapping (bytes32 => bool) private proofs;
